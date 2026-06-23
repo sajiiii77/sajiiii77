@@ -17,5 +17,5 @@ Computer Engineering Student | Full-Stack Developer
 - HTML/CSS
 
 ## Contact
-- LinkedIn: [https://github.com/sajiiii77]
+- LinkedIn: [https://www.linkedin.com/in/sajida-solaiman-3ba169387/]
 - Email: sajidasolaiman@gmail.com
