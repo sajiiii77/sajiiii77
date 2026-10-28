@@ -1,4 +1,4 @@
-# Hi, I'm Sajid 👋
+# Hi, I'm Sajida 👋
 
 Computer Engineering Student | Full-Stack Developer
 
